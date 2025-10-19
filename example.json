@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Столица Японии?",
+    "correctAnswer": "Токио",
+    "incorrectAnswers": ["Осака", "Киото", "Нагоя", "Саппоро"]
+  },
+  {
+    "question": "5 * 6 = ?",
+    "correctAnswer": "30",
+    "incorrectAnswers": ["25", "20", "35", "40"]
+  }
+]
