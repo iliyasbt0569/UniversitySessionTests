@@ -1,4 +1,4 @@
-testingUrl = "paste testing url"
+testingUrl = prompt("paste testing url")
 
 class Test {
     constructor(question, correctAnswer, incorrectAnswers) {
